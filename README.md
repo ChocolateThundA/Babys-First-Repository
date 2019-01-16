@@ -13,9 +13,11 @@ brought to you by some guy on stack overflow
 
 I could include an image of  
 1. a giraffe
-1. not a giraffe
+1. not a giraffe  
 
-
-
+Do you want some code, because if so, I can write it!
+'''Java
+system.out.print("Hello World");
+'''
 
 
