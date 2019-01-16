@@ -21,6 +21,6 @@ system.out.print("Hello World");
 ```
 
 ## I can also make images  
-![South African Giraffe](https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg)  
+![Hosted Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg "South African Giraffe")  
 
 
