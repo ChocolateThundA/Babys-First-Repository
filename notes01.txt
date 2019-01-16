@@ -1,1 +1,7 @@
-this is a basic text file on the msaster branch we will always work on master branch in this code. I have more notes on bitbucket for later
+this is a basic text file on the msaster branch we will always work on master branch in this code. 
+I have more notes on bitbucket for later
+only use .jpg or .png open source images and credit them
+chocolatey is a nifty bit of software that will install stuff for you
+
+
+
