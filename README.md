@@ -15,10 +15,12 @@ I could include an image of
 1. a giraffe
 1. not a giraffe  
 
-Do you want some code, because if so, I can write it!
+##Do you want some code, because if so, I can write it!
 ```java
 system.out.print("Hello World");
 ```
 
+##I can also make images  
+![South African Giraffe](https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg)
 
 
