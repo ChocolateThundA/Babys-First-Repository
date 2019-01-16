@@ -10,6 +10,7 @@ brought to you by some guy on stack overflow
 ## In this page I will
 - make an unnumbered list  
 - include an image  
+
 I could include an image of  
 1. a giraffe
 1. not a giraffe
