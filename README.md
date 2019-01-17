@@ -5,7 +5,6 @@ friendly comment to remind you that double space means next line
 brought to you by some guy on stack overflow
 -->
 ## have some links
-[Here](https://github.com/ChocolateThundA/Babys-First-Repository/blob/master/README.md "this webpage inside of GitHub")  
 [Webpage](https://ChocolateThundA.github.io/Babys-First-Repository/ "this as a webpage")  
 [Repository](https://github.com/ChocolateThundA/Babys-First-Repository "the repository this page is in")  
 ## In this page I will
