@@ -6,7 +6,7 @@ friendly comment to remind you that double space means next line
 brought to you by some guy on stack overflow
 -->
 ## have some links
-[Webpage](https://ChocolateThundA.github.io/Jacob-Briar-Hughes-Repo-01/ "this as a webpage")  
+[Webpage](https://chocolatethunda.github.io/Jacob-Briar-Hughes-Repo-01/ "this as a webpage")  
 [Repository](https://github.com/ChocolateThundA/Jacob-Briar-Hughes-Repo-01 "the repository this page is in")  
 ## In this page I will
 - make an unnumbered list  
