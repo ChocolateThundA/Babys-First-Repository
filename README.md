@@ -25,4 +25,4 @@ system.out.print("Hello World");
 
 ## I can also load local images
 Here's a nice photo of me and some friends in Peru  
-![vscode image](Babys-First-Repository/IMGP0015(2).JPG "Machu Pichu")
+![vscode image](https://github.com/ChocolateThundA/Babys-First-Repository/blob/master/IMGP0015%20(2).JPG?raw=true "Machu Pichu")
