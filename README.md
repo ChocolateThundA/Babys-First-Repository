@@ -1,5 +1,6 @@
 # WELCOME!!!   This is my first Webapp!
 (I think, I still am not sure what webapps are)  
+by Jacob Briar Hughes  
 <!--
 friendly comment to remind you that double space means next line
 brought to you by some guy on stack overflow
