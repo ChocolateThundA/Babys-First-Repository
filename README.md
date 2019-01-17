@@ -23,4 +23,6 @@ system.out.print("Hello World");
 ## I can also make images  
 ![Hosted Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg "South African Giraffe")  
 
-
+## I can also load local images
+Here's a nice photo of me and some friends in Peru  
+![vscode image](Babys-First-Repository/IMGP0015(2).JPG "Machu Pichu")
